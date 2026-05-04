@@ -36,6 +36,8 @@ When creating a `docs` project, `quarkdown create` now links the top-left title 
 
 ### Fixed
 
+&nbsp;
+
 #### Fixed trailing `\` in Quarkdoc multiline signatures
 
 When a function signature in Quarkdoc was long enough to split across multiple lines, the last parameter line incorrectly displayed a trailing `\` before the return type. 
